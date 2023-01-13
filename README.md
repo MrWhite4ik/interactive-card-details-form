@@ -1,6 +1,6 @@
 <h1>Built with</h1>
-<li>
-React
-styled-components
-Flexbox
-</li>
+
+<li>React</li>
+<li>styled-components</li>
+<li>Flexbox</li>
+
